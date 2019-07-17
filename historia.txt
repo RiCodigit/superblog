@@ -1,3 +1,6 @@
 Esto es una prueba de git
 
 Episodio 10
+
+Ya he realizado el primer commit, estas lineas son las primeras
+modificaciones del archivo.
